@@ -1,0 +1,12 @@
+{
+  "name": "node-post-parser",
+  "version": "0.1.0",
+  "description": "A simple library for parsing POST data",
+  "main": "index.js",
+  "author": "Arlo Miles",
+  "license": "LGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arlomiles/node-post-parser.git"
+  }
+}
