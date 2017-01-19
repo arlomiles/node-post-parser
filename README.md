@@ -12,7 +12,9 @@ parsePost(request, (postData) => {
 * application/x-www-form-urlencoded
 * text/plain
 * application/json
+
 Other data types return the POST data as a string
+
 ## TODO
 * multipart/form-data support
 * Various performance improvements (if performance becomes a problem)
